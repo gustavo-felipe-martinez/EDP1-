@@ -1,1 +1,1 @@
-# EDP1-Estis son los ejercicios del curso 
+# EDP1-Estos son los ejercicios del curso 
